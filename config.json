@@ -1,0 +1,12 @@
+{
+  "token": "",
+  "prefix": "self.",
+  "prefix2": "pub.",
+  "webhook": {
+    "id": "",
+    "token": ""
+  },
+  "zombie": {
+    "token": ""
+  }
+}

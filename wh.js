@@ -15,7 +15,7 @@ var servers = {
 };
 
 //Preventing circular dependencies
-//Tkaken from: http://www.johnantony.com/pretty-printing-javascript-objects-as-json/
+//Taken from: http://www.johnantony.com/pretty-printing-javascript-objects-as-json/
 function JSONStringify(object) {
     var cache = [];
     var str = JSON.stringify(object,

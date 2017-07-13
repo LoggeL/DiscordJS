@@ -1,12 +1,13 @@
 {
-  "token": "",
+  "token": "BOT_TOKEN",
   "prefix": "self.",
   "prefix2": "pub.",
+  "server": "RENDER_SERVER_URL",
   "webhook": {
     "id": "",
     "token": ""
   },
   "zombie": {
-    "token": ""
+    "token": "ZOMBIE_TOKEN"
   }
 }
